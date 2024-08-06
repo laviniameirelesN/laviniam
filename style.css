@@ -1,0 +1,14 @@
+function setup() {
+    createCanvas(400, 400);
+  }
+  
+  function draw() {
+    backgroud("#11CCE4")
+    fill('#A51D4B')
+    stroker('#F7DF15')
+    strokeWeight("25")
+  console.log(mouseIsPressed);
+    rect(mouseX,mouseY, 120, 120,)
+   
+    
+  }
